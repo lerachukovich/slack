@@ -398,6 +398,7 @@ li {
 }
 .message-text p {
   margin-bottom: 5px;
+  margin-right: 10px;
 }
 .message-reply {
   display: flex;
